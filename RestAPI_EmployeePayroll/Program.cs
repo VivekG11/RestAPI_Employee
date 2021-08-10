@@ -6,7 +6,7 @@ namespace RestAPI_EmployeDetails
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Employe Payroll using RestSharp......");
+            Console.WriteLine("Employe Details using RestSharp......");
         }
     }
 }
